@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="individuos_cha" id="individuos_cha">
+	<SimpleField name="Nro. Indiv" type="float"></SimpleField>
+	<SimpleField name="Coord. De" type="float"></SimpleField>
+	<SimpleField name="field_5" type="float"></SimpleField>
+	<SimpleField name="ESPECIE (n" type="string"></SimpleField>
+	<SimpleField name="Nombre com" type="string"></SimpleField>
+</Schema>
+<Folder><name>individuos_cha</name>
+  <Placemark id="individuos_cha.1">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">217</SimpleData>
+		<SimpleData name="Coord. De">436633</SimpleData>
+		<SimpleData name="field_5">7203369</SimpleData>
+		<SimpleData name="ESPECIE (n">Mangifera indica.</SimpleData>
+		<SimpleData name="Nombre com">mango</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6294078698075,-25.2847863257116</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.2">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">245</SimpleData>
+		<SimpleData name="Coord. De">436606</SimpleData>
+		<SimpleData name="field_5">7203424</SimpleData>
+		<SimpleData name="ESPECIE (n">Pseudalbizzia niopoides</SimpleData>
+		<SimpleData name="Nombre com">yvyraju</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.629673476669,-25.2842885205703</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.3">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">275</SimpleData>
+		<SimpleData name="Coord. De">436562</SimpleData>
+		<SimpleData name="field_5">7203445</SimpleData>
+		<SimpleData name="ESPECIE (n">Leucaena leucocephala</SimpleData>
+		<SimpleData name="Nombre com">leucaena</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6301095147397,-25.2840970206879</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.4">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">291</SimpleData>
+		<SimpleData name="Coord. De">436558</SimpleData>
+		<SimpleData name="field_5">7203425</SimpleData>
+		<SimpleData name="ESPECIE (n">Cassia fistula</SimpleData>
+		<SimpleData name="Nombre com">lluvia de oro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6301501767218,-25.2842774549579</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.5">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">466</SimpleData>
+		<SimpleData name="Coord. De">436557</SimpleData>
+		<SimpleData name="field_5">7203384</SimpleData>
+		<SimpleData name="Nombre com">Especie no identificada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6301620219661,-25.2846476506103</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.6">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">483</SimpleData>
+		<SimpleData name="Coord. De">436568</SimpleData>
+		<SimpleData name="field_5">7203364</SimpleData>
+		<SimpleData name="ESPECIE (n">Triplaris gardneriana wed</SimpleData>
+		<SimpleData name="Nombre com">Villetana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6300537002265,-25.2848287211458</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.7">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">554</SimpleData>
+		<SimpleData name="Coord. De">436582</SimpleData>
+		<SimpleData name="field_5">7203284</SimpleData>
+		<SimpleData name="ESPECIE (n">Leucaena leucocephala</SimpleData>
+		<SimpleData name="Nombre com">leucaena</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.629918379888,-25.2855517306041</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.8">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">560</SimpleData>
+		<SimpleData name="Coord. De">436559</SimpleData>
+		<SimpleData name="field_5">7203300</SimpleData>
+		<SimpleData name="ESPECIE (n">Jacaranda mimosifolia D. Don</SimpleData>
+		<SimpleData name="Nombre com">jacaranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6301460768197,-25.2854062719376</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.9">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">626</SimpleData>
+		<SimpleData name="Coord. De">436645</SimpleData>
+		<SimpleData name="field_5">7203400</SimpleData>
+		<SimpleData name="ESPECIE (n">Leucaena leucocephala</SimpleData>
+		<SimpleData name="Nombre com">leucaena</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6292872381895,-25.2845068979753</coordinates></Point>
+  </Placemark>
+  <Placemark id="individuos_cha.10">
+	<ExtendedData><SchemaData schemaUrl="#individuos_cha">
+		<SimpleData name="Nro. Indiv">629</SimpleData>
+		<SimpleData name="Coord. De">436508</SimpleData>
+		<SimpleData name="field_5">7203325</SimpleData>
+		<SimpleData name="Nombre com">Especie no identificada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6306514573647,-25.2851783526702</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
